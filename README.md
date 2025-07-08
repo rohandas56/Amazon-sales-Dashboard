@@ -1,8 +1,12 @@
-Amazon Analytics: E-Commerce Performance Dashboard
+1.Amazon Analytics: E-Commerce Performance Dashboard
 A dynamic, interactive Power BI dashboard developed to provide deep insights into Amazon's sales, profit trends, customer behavior, and regional performance—empowering business analysts and decision-makers to drive strategic growth and operational efficiency.
-2. Short Description / Purpose
+
+
+***2. Short Description / Purpose
 The **Amazon E-Commerce Dashboard** is a fully interactive Power BI report designed to analyze and monitor key performance indicators (KPIs) related to Amazon's sales and operations. This dashboard allows stakeholders to track sales, profits, customer orders, and category-wise performance over time. It is intended for use by business analysts, e-commerce managers, operations teams, and strategy consultants who need a clear, visual understanding of online retail performance and growth opportunities.
- 3. Tech Stack
+
+
+***3. Tech Stack
 This dashboard was built using the following tools and technologies:
 * 📊 **Power BI Desktop** – Main visualization and report-building platform.
 * 🔁 **Power Query Editor** – Used for data transformation, cleansing, and shaping.
@@ -59,4 +63,6 @@ Users can interactively filter the dashboard by:
 * **Executive Reporting**: Reduces manual reporting; simplifies insights for leadership teams.
 ## 6. Screenshots / Demos
 show what the dashboard lookslike.
-example:https://github.com/rohandas56/Amazon-sales-Dashboard/blob/main/amazon%20dashboard.png
+example:
+
+https://github.com/rohandas56/Amazon-sales-Dashboard/blob/main/amazon%20dashboard.png
