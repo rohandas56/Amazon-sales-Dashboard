@@ -64,5 +64,5 @@ Users can interactively filter the dashboard by:
 ## 6. Screenshots / Demos
 show what the dashboard lookslike.
 example:
+![Amazon Dashboard](https://raw.githubusercontent.com/rohandas56/Amazon-sales-Dashboard/main/amazon%20dashboard.png)
 
-(https://github.com/rohandas56/Amazon-sales-Dashboard/blob/main/amazon%20dashboard.png).
