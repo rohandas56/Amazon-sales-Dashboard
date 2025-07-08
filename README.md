@@ -65,4 +65,4 @@ Users can interactively filter the dashboard by:
 show what the dashboard lookslike.
 example:
 
-https://github.com/rohandas56/Amazon-sales-Dashboard/blob/main/amazon%20dashboard.png
+(https://github.com/rohandas56/Amazon-sales-Dashboard/blob/main/amazon%20dashboard.png).
